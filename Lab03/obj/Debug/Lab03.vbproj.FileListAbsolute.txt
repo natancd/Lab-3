@@ -1,0 +1,12 @@
+C:\Nuvem\OneDrive - Durham College\2semester\NET DEVELOPMENT I (NETD-2202-02)\Projects\Lab03\Lab03\Lab03\bin\Debug\Lab03.exe.config
+C:\Nuvem\OneDrive - Durham College\2semester\NET DEVELOPMENT I (NETD-2202-02)\Projects\Lab03\Lab03\Lab03\bin\Debug\Lab03.exe
+C:\Nuvem\OneDrive - Durham College\2semester\NET DEVELOPMENT I (NETD-2202-02)\Projects\Lab03\Lab03\Lab03\bin\Debug\Lab03.pdb
+C:\Nuvem\OneDrive - Durham College\2semester\NET DEVELOPMENT I (NETD-2202-02)\Projects\Lab03\Lab03\Lab03\bin\Debug\Lab03.xml
+C:\Nuvem\OneDrive - Durham College\2semester\NET DEVELOPMENT I (NETD-2202-02)\Projects\Lab03\Lab03\Lab03\obj\Debug\Lab03.vbprojAssemblyReference.cache
+C:\Nuvem\OneDrive - Durham College\2semester\NET DEVELOPMENT I (NETD-2202-02)\Projects\Lab03\Lab03\Lab03\obj\Debug\Lab03.frmAverageUnitsShippedByEmployee.resources
+C:\Nuvem\OneDrive - Durham College\2semester\NET DEVELOPMENT I (NETD-2202-02)\Projects\Lab03\Lab03\Lab03\obj\Debug\Lab03.Resources.resources
+C:\Nuvem\OneDrive - Durham College\2semester\NET DEVELOPMENT I (NETD-2202-02)\Projects\Lab03\Lab03\Lab03\obj\Debug\Lab03.vbproj.GenerateResource.cache
+C:\Nuvem\OneDrive - Durham College\2semester\NET DEVELOPMENT I (NETD-2202-02)\Projects\Lab03\Lab03\Lab03\obj\Debug\Lab03.vbproj.CoreCompileInputs.cache
+C:\Nuvem\OneDrive - Durham College\2semester\NET DEVELOPMENT I (NETD-2202-02)\Projects\Lab03\Lab03\Lab03\obj\Debug\Lab03.exe
+C:\Nuvem\OneDrive - Durham College\2semester\NET DEVELOPMENT I (NETD-2202-02)\Projects\Lab03\Lab03\Lab03\obj\Debug\Lab03.xml
+C:\Nuvem\OneDrive - Durham College\2semester\NET DEVELOPMENT I (NETD-2202-02)\Projects\Lab03\Lab03\Lab03\obj\Debug\Lab03.pdb
